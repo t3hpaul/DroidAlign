@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:layout_width="match_parent"
+  android:layout_height="match_parent" android:orientation="vertical">
+    <TextView android:layout_height="wrap_content" android:layout_width="wrap_content" android:id="@+id/title" android:gravity="center_vertical" android:paddingLeft="90dip" android:text="@string/smithTitle"></TextView>
+    <LinearLayout android:id="@+id/linearLayout1" android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content">
+        <EditText android:layout_height="wrap_content" android:layout_width="match_parent" android:id="@+id/seq1" android:text="@string/sequence1"></EditText>
+        <EditText android:layout_height="wrap_content" android:layout_width="match_parent" android:id="@+id/seq2" android:text="@string/sequence2"></EditText>
+        <Button android:layout_height="wrap_content" android:layout_width="match_parent" android:text="@string/align" android:id="@+id/align"></Button>
+        <Button android:layout_height="wrap_content" android:layout_width="match_parent" android:text="@string/back" android:id="@+id/back"></Button>
+        <TextView android:layout_height="wrap_content" android:id="@+id/sequnces" android:layout_width="wrap_content" android:text="@string/sequences" android:layout_gravity="center"></TextView>
+        <TextView android:layout_height="wrap_content" android:layout_width="wrap_content" android:id="@+id/matrix" android:text="@string/matrix"></TextView>
+    </LinearLayout>
+</LinearLayout>

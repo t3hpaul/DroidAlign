@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, AndroidAlignment!</string>
+    <string name="app_name">Sequence Alignment</string>
+    <string name="pickOne">Please select an algorithm to use, or to find out more about the authors of this application:</string>
+    <string name="aboutUs">Mobile Pairwise Gene Sequence Alignment application developed by Paul Stasiuk and Zach Romer for Dr.Mark Albert COMP271 at Loyola University Chicago
+    for more information about the algorithms used in the application, please visit: http://en.wikipedia.org/wiki/Needleman-Wunsch and http://en.wikipedia.org/wiki/Smith-Watermans </string>
+    <string name="back">Main Menu</string>
+    <string name="sequence1">Sequence1</string>
+    <string name="sequence2">Sequence2</string>
+    <string name="align">Align!</string>
+    <string name="needlemanTitle">Needleman-Wunsch</string>
+    <string name="smithTitle">Smith-Waterman</string>
+    <string name="sequences">Sequences</string>
+    <string name="matrix">Matrix</string>
+</resources>
