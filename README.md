@@ -1,4 +1,4 @@
-Gene Sequence Alignment Android
+Android Gene Sequence Alignment
 --------------------------------------------------
 
 Project for at Loyola University Chicago using Android to align Gene Sequences(2010). Only simple alignments are possible(no reading from CSV, Tab Delimited, or .txt documents).
